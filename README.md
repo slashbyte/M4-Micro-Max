@@ -1,4 +1,4 @@
-# Micro-Max 4.8 [ItsyBitsy M4 Port](https://www.adafruit.com/product/3800)
+# Micro-Max 4.8 [ItsyBitsy M4](https://www.adafruit.com/product/3800) Port
 This version includes the "hash translation table".
 Compile and play a game over serial.
 
